@@ -7,13 +7,13 @@ Follow these steps to clone and run **OrbitFi** on your local machine.
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/shuvishubham/OrbitFi-Final-Project-web3mantra.git
+git clone https://github.com/shuvishubham/OrbitFi-template-web3mantra.git
 ```
 
 ## 2. Navigate to the Project Directory
 
 ```bash
-cd OrbitFi-Final-Project-web3mantra
+cd OrbitFi-template-web3mantra
 ```
 
 ## 3. Install Dependencies
